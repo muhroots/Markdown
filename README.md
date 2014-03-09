@@ -1,3 +1,3 @@
 #Murilo de Siqueira Ferreira
 
-*Desnvolvedor Front end*
+*Desenvolvedor Front end na Empresa Colégio Anglo Prudentino*
