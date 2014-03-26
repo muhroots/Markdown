@@ -43,6 +43,8 @@ Especialização	em	**Desenvolvimento	Web**	(UTFPR	-	Londrina) - *Cursando*
 * Wordpress
 * CodeIgniter
 
+___
+
 ##Cursos extras	
 
 * Curso	de	Design	para	web	(Bruno	Ávila)	
