@@ -6,7 +6,7 @@ Endereço: *Rua	Mendes	de	Morais,	Vila	Marina	-	Presidente	Prudente	-	SP*
 
 Telefone: **(18)	98150-1742**
 
-E-mail: **mu.sifera@gmail.com
+E-mail: **mu.sifera@gmail.com**
 
 ##Graduação
 
@@ -25,21 +25,21 @@ Especialização	em	**Desenvolvimento	Web**	(UTFPR	-	Londrina) - **Cursando**
 
 *Conhecimentos*	
 
-*Adobe	Photoshop
-*Axure
-*UX
-*AI
-*Prototipação
-*LESS
-*CSS3
-*HTML5
-*Javascript
-*jQuery
-*Grunt.js
-*Otimização de performance
-*WAI-ARIA
-*Wordpress
-*CodeIgniter
+* Adobe	Photoshop
+* Axure
+* UX
+* AI
+* Prototipação
+* LESS
+* CSS3
+* HTML5
+* Javascript
+* jQuery
+* Grunt.js
+* Otimização de performance
+* WAI-ARIA
+* Wordpress
+* CodeIgniter
 
 ##Cursos extras	
 
