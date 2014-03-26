@@ -15,15 +15,15 @@ Curso	Superior	de	Tecnologia	em	**Sistemas	para	Internet**	(FIPP	–	Unoeste) - 
 
 ##Pós	graduação
 
-Especialização	em	**Desenvolvimento	Web**	(UTFPR	-	Londrina) - **Cursando**
+Especialização	em	**Desenvolvimento	Web**	(UTFPR	-	Londrina) - *Cursando*
 
 
 ##Experiência	profissional	
 
-*Desenvolvedor	web	(Freelancer)	–	(2010	-	2012)
-*Desenvolvedor	Front-end	(Colégio	Anglo	Prudentino)	–	(2012	–	Atualmente)
+* Desenvolvedor	web	(Freelancer)	–	(2010	-	2012)
+* Desenvolvedor	Front-end	(Colégio	Anglo	Prudentino)	–	(2012	–	Atualmente)
 
-*Conhecimentos*	
+**Conhecimentos**	
 
 * Adobe	Photoshop
 * Axure
@@ -43,5 +43,5 @@ Especialização	em	**Desenvolvimento	Web**	(UTFPR	-	Londrina) - **Cursando**
 
 ##Cursos extras	
 
-+Curso	de	Design	para	web	(Bruno	Ávila)	
-+Minicurso	de	UX	para	web	designers	(Luís	Felipe	Fernandes) - **Cursando**
+* Curso	de	Design	para	web	(Bruno	Ávila)	
+* Minicurso	de	UX	para	web	designers	(Luís	Felipe	Fernandes) - *Cursando*
