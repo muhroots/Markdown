@@ -25,7 +25,7 @@ Especialização	em	**Desenvolvimento	Web**	(UTFPR	-	Londrina) - *Cursando*
 * Desenvolvedor	web	(Freelancer)	–	(2010	-	2012)
 * Desenvolvedor	Front-end	(Colégio	Anglo	Prudentino)	–	(2012	–	Atualmente)
 
-**Conhecimentos**	
+###Conhecimentos	
 
 * Adobe	Photoshop
 * Axure
