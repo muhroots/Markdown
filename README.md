@@ -10,12 +10,9 @@ E-mail: **mu.sifera@gmail.com**
 
 ___
 
-##Graduação
+##Formação acadêmica
 
 Curso	Superior	de	Tecnologia	em	**Sistemas	para	Internet**	(FIPP	–	Unoeste) - *Concluído	em	Junho	de	2012*​
-
-
-##Pós	graduação
 
 Especialização	em	**Desenvolvimento	Web**	(UTFPR	-	Londrina) - *Cursando*
 
@@ -23,7 +20,7 @@ Especialização	em	**Desenvolvimento	Web**	(UTFPR	-	Londrina) - *Cursando*
 ##Experiência	profissional	
 
 * Desenvolvedor	web	(Freelancer)	–	(2010	-	2012)
-* Desenvolvedor	Front-end	(Colégio	Anglo	Prudentino)	–	(2012	–	Atualmente)
+* Desenvolvedor	Front-end	(Colégio	Anglo	Prudentino)	–	(2013	–	Atualmente)
 
 ###Conhecimentos	
 
