@@ -8,6 +8,7 @@ Telefone: **(18)	98150-1742**
 
 E-mail: **mu.sifera@gmail.com**
 
+[Linkedin](http://www.linkedin.com/in/muhroots)
 ___
 
 ##Formação acadêmica
