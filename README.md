@@ -1,8 +1,8 @@
 #Murilo de Siqueira Ferreira
 
-Brasileiro, Solteiro, 22 anos
+Brasileiro, Solteiro, 23 anos
 
-Endereço: *Rua	Mendes	de	Morais,	Vila	Marina	-	Presidente	Prudente	-	SP*
+Endereço: *Rua Liberato Mesquita,	Cidade Universitária	-	Presidente	Prudente	-	SP*
 
 Telefone: **(18)	98150-1742**
 
@@ -13,9 +13,9 @@ ___
 
 ##Formação acadêmica
 
-Curso	Superior	de	Tecnologia	em	**Sistemas	para	Internet**	(FIPP	–	Unoeste) - *Concluído	em	Junho	de	2012*​
+Curso	Superior	de	Tecnologia	em	**Sistemas	para	Internet**	(FIPP	–	Unoeste)​
 
-Especialização	em	**Desenvolvimento	Web**	(UTFPR	-	Londrina) - *Cursando*
+Especialização	em	**Desenvolvimento	Web**	(UTFPR	-	Londrina).
 
 
 ##Experiência	profissional	
@@ -29,21 +29,23 @@ Especialização	em	**Desenvolvimento	Web**	(UTFPR	-	Londrina) - *Cursando*
 * Axure
 * UX
 * AI
+* Teste de usabilidade
 * Prototipação
 * LESS
 * CSS3
+* Stylus
+* Rich Snippets
 * HTML5
-* Javascript
+* javaScript
 * jQuery
 * Grunt.js
 * Otimização de performance
+* Acessibilidade
 * WAI-ARIA
-* Wordpress
-* CodeIgniter
 
 ___
 
 ##Cursos extras	
 
 * Curso	de	Design	para	web	(Bruno	Ávila)	
-* Minicurso	de	UX	para	web	designers	(Luís	Felipe	Fernandes) - *Cursando*
+* Minicurso	de	UX	para	web	designers	(Luís	Felipe	Fernandes)
