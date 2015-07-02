@@ -20,8 +20,10 @@ Especialização	em	**Desenvolvimento	Web**	(UTFPR	-	Londrina).
 
 ##Experiência	profissional	
 
-* Desenvolvedor	web	(Freelancer)	–	(2010	-	2012)
-* Desenvolvedor	Front-end	(Colégio	Anglo	Prudentino)	–	(2013	–	Atualmente)
+* Desenvolvedor	web	(Freelancer)	–	2 anos
+* Desenvolvedor	Front-end	(Colégio Anglo	Prudentino) - 1 ano 6 meses
+* Desenvolvedor Front-end (Raro! Branding & Design) - 2 meses
+* Desenvolvedor	Front-end	(Cliqex)
 
 ###Conhecimentos	
 
